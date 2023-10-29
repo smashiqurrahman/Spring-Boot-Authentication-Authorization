@@ -6,3 +6,4 @@ Spring Boot 3 + Spring Security 6 - JWT Authentication and Authorization
 <h4>Spring Security 6</h4>
 <h4>Jwt 0.11.5</h4>
 <h4>MySql</h4>
+<h4>Swagger</h4>
